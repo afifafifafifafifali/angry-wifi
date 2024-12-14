@@ -1,9 +1,12 @@
 # Angry Data Wi-Fi
 
 <p align="center">
-    <img src="https://github.com/afifafifafifafifali/angry-wifi/screenshot.png?raw=true" alt="Screenshot"/>
+    <img src="https://github.com/afifafifafifafifali/angry-wifi/blob/main/screenshot.png?raw=true" alt="Screenshot"/>
 </p> 
+
+
 # Intro
+
 The hackers(especially who uses VM's on a Windows laptop or desktop, low-end pc users) are tired of buying network adapters.
 Just to hack a network. But, what if I tell you? that there is a way to hack or test your password's strength . This is where this app comes in use.
 
